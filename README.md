@@ -94,12 +94,12 @@ Accuracy of strawberry: 0.9818 (485/494)
 
 2. Training vs Validation Loss for Resnet-50
 <p align="center">
-  <img src="docs/loss.png" width="750">
+  <img src="docs/loss.png" width="500">
 </p>
 
 3. Training vs Validation Accuracy for Resnet-50
 <p align="center">
-  <img src="docs/accuracy.png" width="750">
+  <img src="docs/accuracy.png" width="500">
 </p>
 
 
